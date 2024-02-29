@@ -1,0 +1,7 @@
+Chạy lệnh để backup hoặc tạo Task scheduler
+
+PS C: cd / -> Users
+PS C:\Users>python .\QuangPhuc\PythonBackupCisco\backup.py
+
+Onedrive
+Tải folder PythonBackupCisco về đổi đuôi file thành .lnk là mở được 
